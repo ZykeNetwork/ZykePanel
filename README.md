@@ -12,4 +12,4 @@ You can now use the functions present such as sending messages as the bot and ch
 ## Copyright Info
 Copyright (c) 2019 Zyke Network. All rights reserved.  
 
-[![Licensed under the BSD-3-Clause](https://img.shields.io/github/license/ZykeNetwork/ZykePanel.svg?style=for-the-badge&logo=GitHubl)](https://github.com/ZykeNetwork/ZykePanel/blob/master/LICENSE.md)
+[![Licensed under the BSD-3-Clause](https://img.shields.io/github/license/ZykeNetwork/ZykePanel.svg?style=for-the-badge&logo=GitHub)](https://github.com/ZykeNetwork/ZykePanel/blob/master/LICENSE.md)
